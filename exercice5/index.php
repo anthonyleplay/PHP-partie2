@@ -19,16 +19,16 @@
         </div>
     </div>
 
-
+<p>===============================================</p>
 
     <?php
 
 $gender = "Homme";
 
 if ($gender != "Homme"){
-    echo "C'est une développeuse !!!" 
+    echo "C'est une développeuse !!!";
 }else {
-    echo "C'est un développeur !!!" 
+    echo "C'est un développeur !!!";
 }
 
 ?>

@@ -71,7 +71,7 @@
         <br>
     </div>Gérer tous les cas. &nbsp;<br>Utilser autre chose que des if else.
 
-
+    <p>===============================================</p>
 
     <?php
 $magnitude = 2;

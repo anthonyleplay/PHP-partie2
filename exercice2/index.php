@@ -15,6 +15,7 @@
 
     <p>Bonus : L'écrire de deux manières différentes.</p>
 
+    <p>===============================================</p>
 
     <?php
 $isEasy = false;
