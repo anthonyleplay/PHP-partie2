@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h2>Exercice 4</h2>
+    <h1>Exercice 4</h1>
 
     <div>L'échelle de Richter est un outil de mesure qui permet de définir la magnitude de moment d'un
         tremblement de terre. Cette échelle va de 1 à 9.
@@ -111,8 +111,6 @@ switch ($magnitude) {
     case 9:
         echo "Séisme capable de tout détruire sur une très vaste zone.";
         break;
-    
-        
     
 ?>
 

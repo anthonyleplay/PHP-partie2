@@ -4,18 +4,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>exo1</title>
+    <title>exo5</title>
 </head>
 
 <body>
-    <h1>Exercice 1</h1>
-
-    <p>Créer une variable name et l'initialiser avec la valeur de votre choix. Afficher son contenu.</p>
+    <h1>Exercice 5</h1>
 
 
-<?php
-$name = "Anthony";
-echo $name;
+    <div>
+        <div>Traduire ce code avec des <b>if </b>et des <b>else </b>:&nbsp;
+            <br><br>
+            &nbsp;&nbsp;&nbsp; &lt;?php<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; echo ($gender != 'Homme') ?
+            'C\'est une développeuse !!!' : 'C\'est un développeur !!!';<br>&nbsp;&nbsp;&nbsp; ?&gt;
+        </div>
+    </div>
+
+
+
+    <?php
+
+$gender = "Homme";
+
+if ($gender != "Homme"){
+    echo "C'est une développeuse !!!" 
+}else {
+    echo "C'est un développeur !!!" 
+}
+
 ?>
 
 </body>
